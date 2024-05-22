@@ -1,0 +1,4 @@
+*.json filter=lfs diff=lfs merge=lfs -text
+yelp_business.json filter=lfs diff=lfs merge=lfs -text
+yelp_data.json filter=lfs diff=lfs merge=lfs -text
+yelp_checkin.json filter=lfs diff=lfs merge=lfs -text
